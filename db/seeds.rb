@@ -7,7 +7,7 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 
-@user = User.create(email: "test@test.com", password: "asdfasdf", password_confirmation: "asdfasdf", first_name: "Jon", last_name: "Snow")
+@user = User.create(email: "sample@gmail.com", password: "asdfasdf", password_confirmation: "asdfasdf", first_name: "Dallin", last_name: "Johnson")
 
 puts "1 User created"
 
