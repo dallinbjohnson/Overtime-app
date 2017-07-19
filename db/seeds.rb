@@ -16,7 +16,7 @@
 
 puts "1 User created"
 
-AdminUser.create(email: "admin@gmail.com", 
+@amin_user = AdminUser.create(email: "admin@gmail.com", 
 									password: "asdfasdf", 
 									password_confirmation: "asdfasdf", 
 									first_name: "Admin", 
