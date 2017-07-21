@@ -7,4 +7,4 @@ class StaticController < ApplicationController
 			@pending_audit_confimations = current_user.audit_logs.pending
 		end
 	end
-endhttp://localhost:3000/audit_logs/2/confirm
+end
