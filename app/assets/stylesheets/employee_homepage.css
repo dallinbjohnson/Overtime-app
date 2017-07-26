@@ -1,3 +1,6 @@
 .employee-blocks {
 	margin: 45px 0;
 }
+.btn {
+	white-space: normal !important;
+}
